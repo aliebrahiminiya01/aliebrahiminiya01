@@ -1,8 +1,7 @@
 ### Ali EbrahimiNiya
 
-Computer engineering student at Urmia University, based in Tabriz. I work on machine learning, mostly where
-the data is messy and the mistakes are expensive. Looking for a data science or ML role or internship,
-remote or hybrid.
+Computer engineering student at Urmia University, Tabriz. Machine learning and data analysis.
+Looking for a data science or ML role or internship, remote or hybrid.
 
 [Website](https://aliebrahiminiya01.github.io) · [LinkedIn](https://www.linkedin.com/in/aliebrahiminiya) · [ali.ebrahiminiya.01@gmail.com](mailto:ali.ebrahiminiya.01@gmail.com)
 
@@ -16,14 +15,14 @@ remote or hybrid.
   time-based split took ROC AUC from 0.55 to 0.66.
 - **[Hotel booking analysis](https://github.com/aliebrahiminiya01/Hotel_Project)** —
   119k bookings; cancellations rise from 8% for last-minute bookings to about 40% for ones made months ahead.
-- **[Loan approval with a second opinion](https://github.com/aliebrahiminiya01/Loan_Qualification)** —
+- **[Loan approval prediction](https://github.com/aliebrahiminiya01/Loan_Qualification)** —
   two scikit-learn models in a Tkinter app; when they disagree, a person decides.
 
 #### Applications
 
 - **[Daymark](https://github.com/aliebrahiminiya01/Daymark)** — task manager and planner for Android (Python, Qt, SQLite), 46 tests and CI.
 - **[Repair shop manager](https://github.com/aliebrahiminiya01/RepairShop)** — Persian right-to-left desktop software with Jalali dates and PDF invoices.
-- **[Writing Exercise Studio](https://github.com/aliebrahiminiya01/writing_exercise_app)** — a quiet desktop app for writing practice.
+- **[Writing Exercise Studio](https://github.com/aliebrahiminiya01/writing_exercise_app)** — desktop app for writing practice.
 
 #### Tools
 
