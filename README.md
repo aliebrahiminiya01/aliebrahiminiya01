@@ -16,6 +16,10 @@ Looking for a data science or ML role or internship, remote or hybrid.
 - **[Glioma survival analysis](https://github.com/aliebrahiminiya01/glioma-survival)** —
   1,040 TCGA LGG + GBM patients. Cox model C-index 0.81 and integrated Brier score 0.118 on a held-out test set;
   random survival forest and gradient boosting did not beat it.
+- **[Automatic vs. expert masks for radiomics](https://github.com/aliebrahiminiya01/glioma-pipeline)** —
+  the three projects above joined into one pipeline (U-Net mask → radiomics → grade and survival), with the
+  U-Net retrained in 3 folds. Grade AUC 0.92 with U-Net masks vs 0.95 with expert masks, but 0.85 when a model
+  trained on expert masks is applied to U-Net masks.
 - **[Meal no-show prediction](https://github.com/aliebrahiminiya01/uni_restaurant_project_demo)** —
   which university restaurant reservations go uncollected. A leakage-free student-history feature and a
   time-based split took ROC AUC from 0.55 to 0.66.
