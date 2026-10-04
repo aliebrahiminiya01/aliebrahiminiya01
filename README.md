@@ -1,7 +1,6 @@
 ### Ali EbrahimiNiya
 
-Computer engineering student at Urmia University, Tabriz. Data analysis, machine learning and deep learning.
-Looking for a data science or ML role or internship, remote or hybrid.
+I'm Ali, a computer engineering student at Urmia University. I work on machine learning and medical imaging.
 
 [Website](https://aliebrahiminiya01.github.io) · [LinkedIn](https://www.linkedin.com/in/aliebrahiminiya) · [ali.ebrahiminiya.01@gmail.com](mailto:ali.ebrahiminiya.01@gmail.com)
 
